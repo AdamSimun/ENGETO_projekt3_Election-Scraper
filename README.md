@@ -4,7 +4,7 @@ Třetí projekt tvořený v rámci kurzu "Python Akademie" od společnosti Enget
 
 Popis projektu:
 ---------------
-Smyslem projektu bylo vytvořit program k extrahování [dat výsledků parlamentních voleb z roku 2017] (https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ) pro libovolný územní celek na úrovni okresů.
+Smyslem projektu bylo vytvořit program k extrahování dat výsledků parlamentních voleb z roku 2017 (https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ) pro libovolný územní celek na úrovni okresů.
 
 INSTALACE KNIHOVEN:
 -------------------
